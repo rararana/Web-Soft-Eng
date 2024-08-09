@@ -1,0 +1,159 @@
+*{
+    background-color: #24282f;
+}
+
+body{
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+}
+
+.topnav{
+    margin-left:925px;
+    overflow: hidden;
+}
+
+.active{
+    color: #00f0ff;
+    text-decoration: none;
+}
+
+.inactive{
+    color: #fff;
+    text-decoration: none;
+}
+
+.topnav a {
+    float: left;
+    text-align: center;
+    padding: 2px 15px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.about{
+    margin-left: 20px;
+    margin-right: 450px;
+    text-align: justify;
+    line-height: 25px;
+}
+
+h3{
+    font-size: 25px;
+}
+
+.right{
+    display: block;
+    float: right;
+    margin-left: auto;
+    margin-right: 100px;
+    width: 50%;
+}
+
+.left{
+    display: block;
+    float: left;
+    margin-left: 50px;
+    margin-right: auto;
+    width: 50%;
+}
+
+em{
+    color: #00f0ff;
+}
+
+#firstsec{
+    height: 100%;
+    background-color: #003b41;
+    position: absolute;
+    top: 150px;
+    left: 0;
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    font-family: "Garamond", serif;
+    font-size: 35px;
+}
+
+.fi{
+    background-color: #003b41;
+}
+
+h3{
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+.row{
+    width: 100%;
+    margin-top: 50px;
+}
+
+.col{
+    display: inline-block;
+    margin: 25px 25px;
+    overflow: hidden;
+}
+
+.image{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-right: auto;
+    height: 250px;
+    width: 360px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: all .6s;
+    -o-transition: all .6s;
+    -webkit-transition: all .6s;
+    -moz-transition: all .6s;
+}
+
+#img1{
+    background-image: url(images/GIM.png);
+}
+
+#img2{
+    background-image: url(images/hof.jpg);
+}
+
+#img3{
+    background-image: url(images/grafis.png);
+}
+
+.image:hover{
+    transform: scale(1.5);
+    -o-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+}
+
+.caption{
+    display: block;
+    margin-left: 25px;
+}
+
+.tle{
+    margin-top: 40px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #8390a8;
+}
+
+p.caption{
+    font-size: 14px;
+    margin-top: 20px;
+    line-height: 23px;
+}
+
+bold{
+    color: #00f0ff;
+}
