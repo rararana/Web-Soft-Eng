@@ -1,5 +1,6 @@
 # Website Portofolio Rana
 > Merupakan website berisi portofolio yang dibuat dengan memanfaatkan HTML dan CSS. Website ini merupakan tugas dari SPARTA HMIF 2023.
+> Deployment: https://web-soft-eng-rev.vercel.app/
 
 ## Informasi Umum
 - Website ini dibuat sebagai penugasan dari career path Software Engineering
