@@ -31,6 +31,6 @@ memahaminya sendiri dalam waktu yang singkat sehingga tidak dilakukan implementa
 
 
 ## Identitas pembuat
-Nama: Ranashahira Reztaputri
-NIM TPB: 19623232
-Klan: H
+- Nama: Ranashahira Reztaputri
+- NIM TPB: 19623232
+- Klan: H
